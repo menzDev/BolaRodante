@@ -1,16 +1,11 @@
 # Mi primer proyecto UNITY
 
-
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=ffffff" alt="dotnet"></a> 
 <a href="https://github.com/mendozalz"><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=239120&labelColor=ffffff" alt="csharp"></a> 
 
 ## Proyecto BolaRodante 
 
- <img src="https://res.cloudinary.com/dzawvdure/image/upload/v1736704050/guim7hqhqwpaksrghr1d.gif" alt="Video demostrativo de mi proyecto" />
-
- <img src="public/readme/libros.gif" alt="animacion de libros" /> |
-
-### Visita [https://portfolio](https://mendozalz-python.vercel.app/)
+<img src="https://github.com/menzDev/BolaRodante/blob/main/Mi_primer_proyecto_UNITY.gif?raw=true" alt="Video demostrativo de mi proyecto" />
 
 ## Configuración en local
 
