@@ -5,7 +5,7 @@
 
 ## Proyecto BolaRodante 
 
-<img src="https://github.com/menzDev/BolaRodante/blob/main/Mi_primer_proyecto_UNITY.gif?raw=true" alt="Video demostrativo de mi proyecto" />
+<img src="https://github.com/menzDev/BolaRodante/blob/main/public/Mi_primer_proyecto_UNITY.gif?raw=true" alt="Video demostrativo de mi proyecto" />
 
 ## 🎮 Proyecto de juego básico desarrollado en Unity
 Este es un juego sencillo en el que controlas una bola con dos fases principales:
